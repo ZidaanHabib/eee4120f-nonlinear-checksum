@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Zidaan/OneDrive - University of Cape Town/Final Year/EEE4120F - High-Performance Embedded Systems/YODA Project/vivado/non_linear_checksum.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Zidaan/OneDrive - University of Cape Town/Final Year/EEE4120F - High-Performance Embedded Systems/YODA Project/vivado/non_linear_checksum.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Zidaan/OneDrive - University of Cape Town/Final Year/EEE4120F - High-Performance Embedded Systems/YODA Project/vivado/non_linear_checksum.srcs/sim_1/new/testbench_512.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench_512
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Zidaan/OneDrive - University of Cape Town/Final Year/EEE4120F - High-Performance Embedded Systems/YODA Project/vivado/non_linear_checksum.srcs/sim_1/new/testbench_2048.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench_2048
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Zidaan/OneDrive - University of Cape Town/Final Year/EEE4120F - High-Performance Embedded Systems/YODA Project/vivado/non_linear_checksum.srcs/sim_1/new/testbench_4096.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench_4096

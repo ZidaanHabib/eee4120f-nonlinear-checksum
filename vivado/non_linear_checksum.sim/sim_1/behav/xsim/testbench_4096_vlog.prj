@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../non_linear_checksum.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" \
+"../../../../non_linear_checksum.srcs/sim_1/new/testbench.v" \
+"../../../../non_linear_checksum.srcs/sim_1/new/testbench_512.v" \
+"../../../../non_linear_checksum.srcs/sim_1/new/testbench_2048.v" \
+"../../../../non_linear_checksum.srcs/sim_1/new/testbench_4096.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
